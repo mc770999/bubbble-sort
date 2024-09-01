@@ -20,12 +20,26 @@
 					}
                 }
             }
-			foreach (int i in res)
-			{
-                Console.WriteLine(i);
-            }
             return res;
         }
+		public static int[] selection_sort(int[] arr)
+		{
+			int[] res = arr;
+			for (int i = 0; i < res.Length - 1; i++)
+			{
+				int min = 0;
+				for (int j = i + 1; j < res.Length; j++)
+				{
+					if (min < res[j])
+					{
+						min = j;
+
+					}
+				}
+				(res[i], res[min]) = (res[min], res[i]);
+			}
+			return res;
+		}
 
 	}
 }
