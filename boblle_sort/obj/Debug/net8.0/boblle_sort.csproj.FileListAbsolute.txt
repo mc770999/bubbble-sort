@@ -1,0 +1,14 @@
+C:\Users\menac\source\repos\boblle_sort\boblle_sort\bin\Debug\net8.0\boblle_sort.exe
+C:\Users\menac\source\repos\boblle_sort\boblle_sort\bin\Debug\net8.0\boblle_sort.deps.json
+C:\Users\menac\source\repos\boblle_sort\boblle_sort\bin\Debug\net8.0\boblle_sort.runtimeconfig.json
+C:\Users\menac\source\repos\boblle_sort\boblle_sort\bin\Debug\net8.0\boblle_sort.dll
+C:\Users\menac\source\repos\boblle_sort\boblle_sort\bin\Debug\net8.0\boblle_sort.pdb
+C:\Users\menac\source\repos\boblle_sort\boblle_sort\obj\Debug\net8.0\boblle_sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\menac\source\repos\boblle_sort\boblle_sort\obj\Debug\net8.0\boblle_sort.AssemblyInfoInputs.cache
+C:\Users\menac\source\repos\boblle_sort\boblle_sort\obj\Debug\net8.0\boblle_sort.AssemblyInfo.cs
+C:\Users\menac\source\repos\boblle_sort\boblle_sort\obj\Debug\net8.0\boblle_sort.csproj.CoreCompileInputs.cache
+C:\Users\menac\source\repos\boblle_sort\boblle_sort\obj\Debug\net8.0\boblle_sort.dll
+C:\Users\menac\source\repos\boblle_sort\boblle_sort\obj\Debug\net8.0\refint\boblle_sort.dll
+C:\Users\menac\source\repos\boblle_sort\boblle_sort\obj\Debug\net8.0\boblle_sort.pdb
+C:\Users\menac\source\repos\boblle_sort\boblle_sort\obj\Debug\net8.0\boblle_sort.genruntimeconfig.cache
+C:\Users\menac\source\repos\boblle_sort\boblle_sort\obj\Debug\net8.0\ref\boblle_sort.dll
